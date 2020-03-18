@@ -81,6 +81,7 @@ coloredEcho "I am removing .gz files" blue
 coloredEcho "I am done with backups, Thank you! See you soon" blue
 coloredEcho "To resotre backups please use ./xtrabackup.sh resotre" green
 
+coloredEcho "Testinf Git" green
 
 
 
